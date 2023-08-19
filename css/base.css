@@ -1,0 +1,23 @@
+:root{
+    --blanco:#ffffff;
+    --negro:#000000;
+    --negro-claro:#333333;
+    --gris:#4F4F4F;
+    --gris-claro:#BDBDBD;
+    --color-border:#828282;
+    --naranja:#F2994A;
+}
+*,*::after,*::before{
+    margin: 0;
+    padding: 0;
+    box-sizing: inherit;
+}
+html{
+    font-size: 62.5%;
+    box-sizing: border-box;
+}
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: inherit;
+}

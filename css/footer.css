@@ -1,0 +1,17 @@
+.footer{
+    grid-column: 3/11;
+    margin: 9.3rem 0 2.4rem 0;
+}
+.footer__derechos-de-autor{
+    font-family: var(--montserrat);
+    font-weight: 700;
+    text-align: center;
+    font-size: 1.4rem;
+    color: var(--color-border);
+}
+@media (max-width:768px ) { 
+    .footer{
+        grid-column: 2/12;
+    }
+
+}
